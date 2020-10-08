@@ -3,7 +3,7 @@ Reliable Datagram Protocol (RDP)
 
 Brief Assignment Description
 -----------------------
-The purpose of this assignment is to complete the design of the RDP protocol and implement it using the datagram (DGRAM) socket Application Programming Interface (API) with UDP. The learning goal is to teach students how to implement a reliable protocol on top of the unreliable UDP socket.
+The purpose of this assignment is to complete the design of the RDP protocol and implement it using the datagram (DGRAM) socket Application Programming Interface (API) with UDP. The learning goal is to implement a reliable protocol on top of the unreliable UDP socket.
 
 The assignment is consisted by two parts: 
 a) a receiving server program 
